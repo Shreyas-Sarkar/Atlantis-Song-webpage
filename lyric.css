@@ -1,0 +1,67 @@
+body {
+    background-color: #FFF5E1; /* Light warm background */
+    color: #4B2E83; /* Dark purple text for contrast */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #FF6F61; /* Warm coral red header */
+    color: #FFF;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  nav {
+    background-color: #FF9A8B; /* Soft peach color for navigation */
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  nav a {
+    color: #4B2E83; /* Deep purple for links */
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    color: #FFF;
+  }
+  
+  main {
+    padding: 30px;
+    background-color: #FFF5E1; /* Light background for main content */
+  }
+  
+  section {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #FFB6A9; /* Soft warm pink for sections */
+    border-radius: 8px;
+  }
+  
+  footer {
+    background-color: #FF6F61; /* Coral red footer */
+    color: #FFF;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  button {
+    background-color: #FF9A8B; /* Peach for buttons */
+    color: #4B2E83;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #FF6F61; /* Darker coral when hovered */
+    color: #FFF;
+  }
+  
