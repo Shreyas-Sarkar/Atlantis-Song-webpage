@@ -5,7 +5,9 @@ body {
     margin: 0;
     padding: 0;
   }
-  
+  img {
+    border: 5px solid #4B2E83;
+  }
   header {
     background-color: #FF6F61; /* Warm coral red header */
     color: #FFF;
