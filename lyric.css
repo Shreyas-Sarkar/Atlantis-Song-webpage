@@ -1,6 +1,6 @@
 body {
-    background-color: #FFF5E1; /* Light warm background */
-    color: #4B2E83; /* Dark purple text for contrast */
+    background: linear-gradient(to bottom, #000066 0%, #6600cc 100%); /* Light warm background */
+    color: white; /* Dark purple text for contrast */
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
